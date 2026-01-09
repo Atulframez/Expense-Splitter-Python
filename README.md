@@ -14,4 +14,4 @@ A simple Python script to split expenses among a group of people.
 3. Run the script:
    ```bash
    python main.py
-# Expense-Splitter-Python
+
