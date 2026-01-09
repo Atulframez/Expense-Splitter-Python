@@ -15,3 +15,22 @@ A simple Python script to split expenses among a group of people.
    ```bash
    python main.py
 
+🎯 Learning Outcomes
+
+Working with user input in Python
+
+Functions and error handling
+
+Basic financial calculations
+
+Writing clean CLI applications
+
+👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+⭐ Support
+
+If you find this project useful, don’t forget to star ⭐ the repository!
